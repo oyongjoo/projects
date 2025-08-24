@@ -1,0 +1,3 @@
+[submodule "newratek/solum-yard/nrc_rtcm_ie"]
+	path = newratek/solum-yard/nrc_rtcm_ie
+	url = https://github.com/oyongjoo/nrc-rtcm-ie.git
