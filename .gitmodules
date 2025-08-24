@@ -2,3 +2,6 @@
 	path = newratek/solum-yard/nrc_rtcm_ie
 	url = https://github.com/oyongjoo/nrc-rtcm-ie.git
 	branch = solum-yard
+[submodule "newracom/nrc"]
+	path = newracom/nrc
+	url = https://github.com/oyongjoo/nrc.git

@@ -6,6 +6,12 @@ This repository serves as a centralized index for all development projects and u
 
 ### Newratek (NRC/HaLow Solutions)
 
+#### Core Components
+- **[nrc](./newracom/nrc/)** - NRC Wireless Driver for IEEE 802.11ah HaLow
+  - Kernel-space wireless driver with mac80211 integration
+  - Repository: [oyongjoo/nrc](https://github.com/oyongjoo/nrc)
+  - Status: ✅ Production Ready
+
 #### SoluM Yard
 - **[nrc_rtcm_ie](./newratek/solum-yard/nrc_rtcm_ie/)** - NRC RTCM IE package for OpenWrt HaLow
   - Enhanced RTCM processing with LED events and WSIO features
@@ -31,6 +37,7 @@ git submodule update --remote --recursive
 
 ## Project Categories
 
+- **Wireless Drivers**: Kernel-space drivers for HaLow chipsets
 - **Network Utilities**: OpenWrt packages and networking tools
 - **HaLow Development**: IEEE 802.11ah related implementations
 - **RTCM Processing**: Real-time kinematic positioning utilities
