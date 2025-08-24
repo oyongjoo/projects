@@ -6,3 +6,11 @@
 	path = newracom/nrc
 	url = https://github.com/oyongjoo/nrc.git
 	branch = solum-yard
+[submodule "newratek/solum-yard/cli_app"]
+	path = newratek/solum-yard/cli_app
+	url = https://github.com/oyongjoo/cli-app.git
+	branch = solum-yard
+[submodule "newratek/solum-yard/sta_surge"]
+	path = newratek/solum-yard/sta_surge
+	url = https://github.com/oyongjoo/sta-surge.git
+	branch = solum-yard

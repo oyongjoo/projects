@@ -18,6 +18,16 @@ This repository serves as a centralized index for all development projects and u
   - Repository: [oyongjoo/nrc-rtcm-ie](https://github.com/oyongjoo/nrc-rtcm-ie)
   - Status: ✅ Active Development
 
+- **[cli_app](./newratek/solum-yard/cli_app/)** - NRC CLI Application for HaLow Control
+  - Command-line interface for wireless configuration and control
+  - Repository: [oyongjoo/cli-app](https://github.com/oyongjoo/cli-app)
+  - Status: ✅ Active Development
+
+- **[sta_surge](./newratek/solum-yard/sta_surge/)** - Station Surge Testing Utility
+  - Performance testing for HaLow wireless network capacity
+  - Repository: [oyongjoo/sta-surge](https://github.com/oyongjoo/sta-surge)
+  - Status: ✅ Active Development
+
 ## Getting Started
 
 ### Clone All Projects
@@ -38,6 +48,8 @@ git submodule update --remote --recursive
 ## Project Categories
 
 - **Wireless Drivers**: Kernel-space drivers for HaLow chipsets
+- **Command Line Tools**: CLI applications for configuration and control
+- **Testing Utilities**: Performance and load testing frameworks  
 - **Network Utilities**: OpenWrt packages and networking tools
 - **HaLow Development**: IEEE 802.11ah related implementations
 - **RTCM Processing**: Real-time kinematic positioning utilities
