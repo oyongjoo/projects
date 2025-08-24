@@ -5,3 +5,4 @@
 [submodule "newracom/nrc"]
 	path = newracom/nrc
 	url = https://github.com/oyongjoo/nrc.git
+	branch = solum-yard
